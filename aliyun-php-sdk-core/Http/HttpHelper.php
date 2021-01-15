@@ -18,6 +18,7 @@
  * under the License.
  */
 namespace Mrgoon\AliyunSmsSdk\Http;
+use Mrgoon\AliyunSmsSdk\Exception\ClientException;
 
 class HttpHelper
 {
