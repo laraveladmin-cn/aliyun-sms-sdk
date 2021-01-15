@@ -1,12 +1,12 @@
 {
-    "name": "mrgoon/aliyun-sms-sdk",
+    "name": "laraveladmin/aliyun-sms-sdk",
 	"description": "阿里云短信服务核心代码",
     "keywords": ["sdk", "aliyun", "aliyun-sms"],
     "license": "MIT",
     "authors": [
         {
-            "name": "mrgoon",
-            "email": "mrgoon@foxmail.com"
+            "name": "laraveladmin",
+            "email": "214986304@qq.com"
         }
     ],
     "autoload": {
